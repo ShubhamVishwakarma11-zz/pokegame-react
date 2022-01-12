@@ -1,0 +1,11 @@
+.Pokedex {
+    padding: 0px;
+}
+
+.winner-team {
+    color:green;
+}
+
+.loser-team {
+    color: red;
+}
